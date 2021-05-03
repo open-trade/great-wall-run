@@ -1,0 +1,33 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "home-ray",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 5,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "rotation": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 2.3333333333333335,
+          "value": 40
+        },
+        {
+          "frame": 2.6666666666666665,
+          "value": 320
+        },
+        {
+          "frame": 5,
+          "value": 360
+        }
+      ]
+    }
+  },
+  "events": []
+}

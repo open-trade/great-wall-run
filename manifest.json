@@ -1,0 +1,12 @@
+{
+  "short_name": "Great Wall Run",
+  "name": "Great Wall Run",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "320x320",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html"
+}

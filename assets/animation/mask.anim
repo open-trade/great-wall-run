@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "mask",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.02,
+  "sample": 60,
+  "speed": 0.02,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "width": [
+        {
+          "frame": 0,
+          "value": 0,
+          "curve": "cubicIn"
+        },
+        {
+          "frame": 0.016666666666666666,
+          "value": 1400
+        }
+      ],
+      "height": [
+        {
+          "frame": 0,
+          "value": 0,
+          "curve": "cubicIn"
+        },
+        {
+          "frame": 0.016666666666666666,
+          "value": 1400
+        }
+      ]
+    },
+    "paths": {
+      "black": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.016666666666666666,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "blink",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.03333333333333333,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255,
+          "curve": "cubicOut"
+        },
+        {
+          "frame": 0.016666666666666666,
+          "value": 0,
+          "curve": "cubicIn"
+        },
+        {
+          "frame": 0.03333333333333333,
+          "value": 255
+        }
+      ]
+    }
+  },
+  "events": []
+}

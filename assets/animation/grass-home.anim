@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "grass-home",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 4.516666666666667,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 22,
+  "curveData": {
+    "props": {
+      "skewX": [
+        {
+          "frame": 0,
+          "value": 0,
+          "curve": "linear"
+        },
+        {
+          "frame": 1,
+          "value": -20,
+          "curve": "linear"
+        },
+        {
+          "frame": 1.5,
+          "value": -10
+        },
+        {
+          "frame": 2,
+          "value": -20
+        },
+        {
+          "frame": 2.5,
+          "value": -10
+        },
+        {
+          "frame": 3.5,
+          "value": 10
+        },
+        {
+          "frame": 4,
+          "value": 0
+        },
+        {
+          "frame": 4.5,
+          "value": 7.5
+        },
+        {
+          "frame": 4.516666666666667,
+          "value": 10
+        }
+      ]
+    }
+  },
+  "events": []
+}

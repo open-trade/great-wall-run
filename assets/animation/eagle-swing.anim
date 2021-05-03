@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "eagle-swing",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.08333333333333333,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 22,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "8e712bb2-1d47-415e-bf47-9c502f6bb2ea"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "4482d93f-a235-4e59-b3e7-2da614806c98"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "e4068818-2556-462e-ba4d-5787a676699a"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "3140d20b-1a5f-4570-8043-8c9b1a768b60"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "eede2a07-4953-48c1-8e7f-ac4e3ce1f3fa"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

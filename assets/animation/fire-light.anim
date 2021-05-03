@@ -1,0 +1,45 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fire-light",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.17,
+  "sample": 60,
+  "speed": 0.25,
+  "wrapMode": 22,
+  "curveData": {
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 250
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 200
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 0.9
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 1
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 0.9
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 1
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,138 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "daoguang",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {},
+    "comps": {
+      "cc.Sprite": {},
+      "cc.MotionStreak": {}
+    },
+    "paths": {
+      "wrapper/daoguang/sprite": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0.5
+            },
+            {
+              "frame": 1,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.5
+            },
+            {
+              "frame": 1,
+              "value": 1
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                200,
+                20
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 150
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "wrapper/daoguang": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 1,
+              "value": false
+            }
+          ]
+        }
+      },
+      "wrapper/normal/arm": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": -30
+            },
+            {
+              "frame": 0,
+              "value": -30
+            },
+            {
+              "frame": 1,
+              "value": 30
+            },
+            {
+              "frame": 1,
+              "value": 36
+            },
+            {
+              "frame": 1,
+              "value": 30
+            }
+          ]
+        }
+      },
+      "wrapper/shoot": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1,
+              "value": false
+            }
+          ]
+        }
+      },
+      "wrapper/normal": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 1,
+              "value": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

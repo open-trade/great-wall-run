@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "778e988a-b471-4f64-88ff-f7c13bcf60d3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "changcheng-mountain": {
+      "ver": "1.0.3",
+      "uuid": "45e74485-4cdc-4a5c-940d-0787eaccdba2",
+      "rawTextureUuid": "778e988a-b471-4f64-88ff-f7c13bcf60d3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -78,
+      "trimX": 0,
+      "trimY": 156,
+      "width": 1500,
+      "height": 484,
+      "rawWidth": 1500,
+      "rawHeight": 640,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
