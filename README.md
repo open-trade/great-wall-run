@@ -1,5 +1,5 @@
 # Great-Wall-Run
-A Cocos2d-x game made for my daughter several years ago. Tested on [V1.9](https://www.cocos.com/creator).
+A Cocos2d-x game made for my daughter many years ago. Tested on [V1.9](https://www.cocos.com/creator).
 
 https://youtu.be/fTk1smNBAKo
 
